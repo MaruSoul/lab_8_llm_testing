@@ -10,6 +10,8 @@ providers:
   - id: ollama:chat:qwen3:0.6b
     config:
       temperature: 0
+      think: false      # disable Qwen3 reasoning mode ("/no_think" alone is not enough)
+      num_predict: 512  # safety limit on answer length
 
 tests:
   - description: TC-01 fact
