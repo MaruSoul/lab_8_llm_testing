@@ -1,0 +1,6 @@
+In photography, the brightness of an image is controlled by three settings known as the exposure triangle: aperture,
+shutter speed and ISO. Aperture is the opening in the lens and is measured in f-numbers. A smaller f-number, such as
+f/1.8, means a wider opening, which lets in more light and creates a shallower depth of field with a blurred background.
+Shutter speed is the length of time the camera sensor is exposed to light. A fast shutter speed, such as 1/1000 of a
+second, freezes motion, while a slow shutter speed, such as 1/15 of a second, can create motion blur. ISO describes the
+sensitivity of the sensor: raising it makes the image brighter but also adds digital noise.
